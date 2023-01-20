@@ -2,7 +2,7 @@
 // Last Change: Jan 1, 2023
 // JAI version: v0.1.053
 // Maintainer : Craig Giles
-// License    : This file is placed in the public domain.
+// License    : This file uses the MIT license. See LICENSE.md for info.
 // -----------------------------------------------------------------
 #import "Basic";
 
