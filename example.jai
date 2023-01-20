@@ -80,6 +80,12 @@
         is_between_state(WolfQuest.BattledWolf, RedRidingHood.ToldYouAboutWolf)); // true
 
     //
+    // When starting a new game or changing game-states, you can reset the game states using
+    // the following call.
+    //
+    reset_all_tracked_states();
+
+    //
     // These basic state transformations should be good enough to give you a
     // decent way to letting your NPCs treat you differently based on the state
     // of the system.
